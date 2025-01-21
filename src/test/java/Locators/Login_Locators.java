@@ -3,8 +3,8 @@ package Locators;
 import org.openqa.selenium.By;
 
 public interface Login_Locators {
-	static String USUARIO_CERTO = "seu_usuario";
-	static String SENHA_CERTA = "sua_senha";
+	static String USUARIO_CERTO = "Seu_Usuario";
+	static String SENHA_CERTA = "Sua_Senha";
 	static String URL_LOG_ON = "https://sigaa.uern.br/sigaa/portais/discente/discente.jsf";
 	static String SENHA_ERRADA = "123@#";
 	static String USUARIO_ERRADO = "rafaelsousa#";
