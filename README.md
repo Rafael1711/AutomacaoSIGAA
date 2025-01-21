@@ -13,5 +13,7 @@
 8. Relatórios Gerenciais: Gera relatórios personalizados para a gestão acadêmica, oferecendo suporte para decisões administrativas baseadas em dados.
 9. Biblioteca Virtual: Integra serviços de consulta ao acervo bibliográfico da instituição, facilitando o acesso a materiais físicos e digitais.
 10. Gestão de Estágios e Monitorias: Coordena oportunidades de estágio, monitorias acadêmicas e outras atividades extracurriculares.
+11. Avaliação Institucional: Por meio da plataforma é possível que os alunos realizem ao fim de cada semestre a avaliação institucional, avaliando seus professores com base em como desempenheram o ensino ao longo do semestre.
+12. Eleições: Por meio da plataforma, é possível com que alunos e gestores das instituições realizem a votação para chefes de departamentos das universidades.
 
 ### Essas funcionalidades tornam o SIGAA uma ferramenta indispensável para a organização e eficiência das atividades acadêmicas, promovendo a integração e a acessibilidade das informações entre os diferentes setores das instituições de ensino.
