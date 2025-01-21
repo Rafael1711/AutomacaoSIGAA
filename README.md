@@ -9,7 +9,7 @@
 4. Envio de Atividades e Materiais Didáticos: Facilita a comunicação entre professores e alunos por meio do envio de atividades, disponibilização de materiais de estudo e acompanhamento de tarefas.
 5. Lançamento de Notas e Frequências: Permite que professores registrem avaliações e frequência dos alunos diretamente no sistema.
 6. Comunicação Institucional: Integra recursos para envio de mensagens, notificações e comunicados importantes para toda a comunidade acadêmica.
-7. Gestão de Processos de Pós-Graduação: Inclui funcionalidades específicas para controle de cursos Stricto e Lato Sensu, como submissão de dissertações, teses e relatórios de pesquisa.
+7. Gestão de Processos de Pós-Graduação: Inclui funcionalidades específicas para controle de cursos, como submissão de dissertações, teses e relatórios de pesquisa.
 8. Relatórios Gerenciais: Gera relatórios personalizados para a gestão acadêmica, oferecendo suporte para decisões administrativas baseadas em dados.
 9. Biblioteca Virtual: Integra serviços de consulta ao acervo bibliográfico da instituição, facilitando o acesso a materiais físicos e digitais.
 10. Gestão de Estágios e Monitorias: Coordena oportunidades de estágio, monitorias acadêmicas e outras atividades extracurriculares.
