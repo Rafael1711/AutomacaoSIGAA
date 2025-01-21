@@ -14,4 +14,4 @@
 9. Biblioteca Virtual: Integra serviços de consulta ao acervo bibliográfico da instituição, facilitando o acesso a materiais físicos e digitais.
 10. Gestão de Estágios e Monitorias: Coordena oportunidades de estágio, monitorias acadêmicas e outras atividades extracurriculares.
 
-### Essas funcionalidades tornam o SIGAA uma ferramenta indispensável para a organização e eficiência das atividades acadêmicas, promovendo a integração e a acessibilidade das informações entre os diferentes setores da instituições de ensino.
+### Essas funcionalidades tornam o SIGAA uma ferramenta indispensável para a organização e eficiência das atividades acadêmicas, promovendo a integração e a acessibilidade das informações entre os diferentes setores das instituições de ensino.
