@@ -1,8 +1,8 @@
 # Sistema Integrado de Gestão de Atividades Acadêmicas - SIGAA
 
-### O Sistema Integrado de Gestão de Atividades Acadêmicas - SIGAA é uma plataforma voltada para a gestão de informações acadêmicas em universidades e instituições de ensino superior. Ele centraliza e organiza diversos processos administrativos e pedagógicos, facilitando o acesso e a interação entre estudantes, professores e gestores.
+O Sistema Integrado de Gestão de Atividades Acadêmicas - SIGAA é uma plataforma voltada para a gestão de informações acadêmicas em universidades e instituições de ensino superior. Ele centraliza e organiza diversos processos administrativos e pedagógicos, facilitando o acesso e a interação entre estudantes, professores e gestores.
 
-## Principais funcionalidades:
+Principais funcionalidades:
 1. Gestão de Matrículas: Permite o gerenciamento de inscrições em disciplinas, possibilitando aos alunos selecionar, cancelar ou ajustar suas matrículas dentro dos prazos definidos pela instituição.
 2. Registro Acadêmico: Oferece ferramentas para acompanhar histórico escolar, notas, frequência e desempenho em disciplinas cursadas.
 3. Gestão de Currículos: Administra os planos de ensino e as estruturas curriculares dos cursos, integrando requisitos de disciplinas e progressão acadêmica.
@@ -16,4 +16,11 @@
 11. Avaliação Institucional: Por meio da plataforma é possível que os alunos realizem ao fim de cada semestre a avaliação institucional, avaliando seus professores com base em como desempenheram o ensino ao longo do semestre.
 12. Eleições: Por meio da plataforma, é possível com que alunos e gestores das instituições realizem a votação para chefes de departamentos das universidades.
 
-### Essas funcionalidades tornam o SIGAA uma ferramenta indispensável para a organização e eficiência das atividades acadêmicas, promovendo a integração e a acessibilidade das informações entre os diferentes setores das instituições de ensino.
+Essas funcionalidades tornam o SIGAA uma ferramenta indispensável para a organização e eficiência das atividades acadêmicas, promovendo a integração e a acessibilidade das informações entre os diferentes setores das instituições de ensino.
+
+## Passo a passo para baixar e executar os testes:
+1. Clique em 'Code' --> 'Dowload ZIP'
+2. Na sua pasta de dowloads extraia o arquivo.ZIP baixado
+3. Abra o projeto na sua IDE(Eclipse/Intelijei, por exemplo)
+4. Navegue até src/test/java/Locators e altere a variável 'USUARIO_CERTO' e 'SENHA_CERTA' para seu usuário e senha utilizado no SIGAA, respectivamente.
+5. Com a classe 'ChamadaDePaginas' aberta, rode o programa.
